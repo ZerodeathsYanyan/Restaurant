@@ -1,0 +1,60 @@
+body {
+  background-color: lightpink;
+}
+
+.card-body {
+  overflow: hidden;
+}
+
+.card-custom-size {
+  width: auto; /* Adjust the width as needed */
+  height: 400px; /* Adjust the height as needed */
+}
+
+.card-with-image {
+  background-image: url('ADOBO.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.card-with-image2 {
+  background-image: url('Tinola.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.card-with-image3 {
+  background-image: url('Dinugyan\ epic.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.card-with-image4 {
+  background-image: url('Fried\ Chicken.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.card-title {
+  font-size: xx-large;
+  color: aliceblue;
+
+}
+
+.card-text {
+  font-size: medium;
+  color: aliceblue;
+}
+
+.custom-image {
+  width: 100%;
+  height: auto;
+  max-width: 500px;
+  max-height: 500px; 
+  margin: 5px;
+}
+
+.custom-image1 {
+  width: 100%;
+  height: auto;
+  max-width: 320px;
+  max-height: 320px; 
+  margin: 5px;
+}
